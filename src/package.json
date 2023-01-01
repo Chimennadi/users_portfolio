@@ -1,0 +1,15 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass index.scss index.css"
+  },
+  "author": "Charles",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.57.1",
+    "scss": "^0.2.4"
+  }
+}
