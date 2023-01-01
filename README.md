@@ -20,4 +20,4 @@ You may also see any lint errors in the console.
 
 This is the dark theme of the application once you start the react application.
 
-
+Download sass and scss in your `src` folder using npm and in your package.json file write the script "sass index.scss index.css"
