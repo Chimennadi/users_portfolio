@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `dark theme of the application`
-
+![darkmode](https://user-images.githubusercontent.com/96918779/210163873-d1d6d2bb-4a36-417a-baaa-b524a9947061.PNG)
 
 This is the dark theme of the application once you start the react application.
 ### `npm run build`
